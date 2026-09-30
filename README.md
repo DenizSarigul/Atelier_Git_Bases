@@ -21,7 +21,7 @@ Vous n'avez **rien à installer** sur votre machine : Codespaces fournit un envi
 2. Cliquez sur **Sign up** et suivez les instructions.
 3. Validez votre adresse e-mail.
 
-> Si vous avez déjà un compte GitHub, passez directement à l'étape 2.
+> **Si vous avez déjà un compte GitHub, passez directement à l'étape 2**.
 
 ---
 
